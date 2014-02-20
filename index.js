@@ -3,10 +3,10 @@
  * dependencies.
  */
 
-var each = require('each')
-  , unserialize = require('unserialize')
+var each = require('component-each')
+  , unserialize = require('yields-unserialize')
   , storage = window.localStorage
-  , type = require('type');
+  , type = require('component-type');
 
 /**
  * Store the given `key` `val`.

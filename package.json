@@ -1,0 +1,15 @@
+{
+  "name": "yields-store",
+  "description": "store.",
+  "version": "0.2.0",
+  "keywords": [
+    "store",
+    "localstorage"
+  ],
+  "dependencies": {
+    "component-each": "git://github.com/npmcomponent/component-each.git",
+    "component-type": "git://github.com/npmcomponent/component-type.git",
+    "yields-unserialize": "git://github.com/npmcomponent/yields-unserialize.git"
+  },
+  "license": "MIT"
+}
